@@ -176,10 +176,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+
 ![PM led on off](https://user-images.githubusercontent.com/120194155/226915494-8e5ed873-2785-4cc0-bddb-fa012bce4f80.jpg)
- 
- 
- 
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
